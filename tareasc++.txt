@@ -1,2 +1,5 @@
 primera tarea de c++ "Hola"
 PUCESE
+
+modificacion tareas
+27/05/2021
